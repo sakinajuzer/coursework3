@@ -1,0 +1,15 @@
+{
+    "name": "afterschoolfun",
+    "short_name": "Funny",
+    "description": "A very informative app",
+    "icons":[
+        {
+            "src": "images/logo.png",
+            "sizes": "512x512",
+            "type": "images/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
